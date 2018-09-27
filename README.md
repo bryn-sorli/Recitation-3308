@@ -3,3 +3,5 @@
 Bryn Sorli
 
 This should cause a merge conflict. 
+Partner:
+	Brandon Yi 
